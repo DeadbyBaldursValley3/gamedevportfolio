@@ -11,5 +11,4 @@ Student at Skyline High School with projected graduation in 2028. I enjoy story-
 
 ## Projects for Term 1
 ![END](https://github.com/Braxgoal79/GameDevTeam4.git)
-## Projects for Term 2
-
+This was our game project for term 1. It is an application meant to be a top-down shooter. I contributed to a lot of the code, but the main tabs I worked on were the main, timer, and map.
