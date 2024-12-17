@@ -6,8 +6,9 @@ Student at Skyline High School with projected graduation in 2028. I enjoy story-
 * Typing at 50wpm
 * I can play basic piano
 * I can sing well
+![Certification](https://github.com/DeadbyBaldursValley3/gamedevportfolio/blob/main/images/Perrin%20Jorgensen_Game%20Development%20Fundamentals_12132024.pdf)
 
 ## Projects for Term 1
 
 ## Projects for Term 2
-![Certification](https://github.com/DeadbyBaldursValley3/gamedevportfolio/blob/main/images/Perrin%20Jorgensen_Game%20Development%20Fundamentals_12132024.pdf)
+
