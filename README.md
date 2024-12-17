@@ -10,3 +10,4 @@ Student at Skyline High School with projected graduation in 2028. I enjoy story-
 ## Projects for Term 1
 
 ## Projects for Term 2
+![]()
